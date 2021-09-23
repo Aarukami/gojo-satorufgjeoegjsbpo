@@ -26,15 +26,7 @@
 
 ```
 Thanks To:
-> @AnimeKaizoku
-
-> @PaulSonofLars
-
-> @sudo_nautilus
-
-> @kanekiken44
-
-> @TheHamkerCat
+> @Aarukami
 
 ```
 
