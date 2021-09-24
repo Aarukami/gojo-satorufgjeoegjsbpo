@@ -32,7 +32,7 @@ Thanks To:
 
 
 
-The Support group can be reached out to at [mhapvt](https://t.me/mhaprvt), where you can ask for help about [Emilia](https://t.me/I_Am_Strongest_bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [mhapvt](https://t.me/mhaprvt), where you can ask for help about [Gojo](https://t.me/I_Am_Strongest_bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 <details>
 	<summary>Heroku Deploy</summary>
