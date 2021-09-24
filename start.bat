@@ -1,4 +1,4 @@
 @echo off
-TITLE Emilia Robot
-:: Enables virtual env mode and then starts Emilia
-env\scripts\activate.bat && py -m EmiliaAnimeBot
+TITLE Gojo Robot
+:: Enables virtual env mode and then starts Gojo
+env\scripts\activate.bat && py -m  kurama9tAnimeBot
